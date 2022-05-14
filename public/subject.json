@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Orthopedic",
+        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "price": "2500",
+        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+    },
+    {
+        "id": "2",
+        "name": "Neorology",
+        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "price": "5200",
+        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+    },
+    {
+        "id": "3",
+        "name": "Apendix",
+        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "price": "3230",
+        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+    },
+    {
+        "id": "4",
+        "name": "Spine",
+        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "price": "2890",
+        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+    },
+    {
+        "id": "5",
+        "name": "Sergery",
+        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "price": "1500",
+        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+    },
+    {
+        "id": "6",
+        "name": "Therapy",
+        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "price": "500",
+        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+    }
+]
