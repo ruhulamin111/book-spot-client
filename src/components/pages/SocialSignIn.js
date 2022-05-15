@@ -15,9 +15,8 @@ const SocialSignIn = () => {
     return (
 
         <div>
-            <h3>this is socail login </h3>
-            <div>
-                <button onClick={() => signInWithGoogle()} className=''>Google Sign In</button>
+            <div className=''>
+                <button onClick={() => signInWithGoogle()} className='btn btn-info w-50 mx-auto'>Google Sign In</button>
 
             </div>
         </div>

@@ -1,7 +1,12 @@
 import React, { useEffect, useState } from 'react';
+import { useAuthState } from 'react-firebase-hooks/auth';
 import { Link, useParams } from 'react-router-dom';
+import auth from '../../firebase.init';
 
 const ItemDetail = () => {
+    const [user] = useAuthState(auth)
+
+
     const { bookId } = useParams();
     const [item, setItem] = useState({});
     useEffect(() => {
@@ -13,10 +18,10 @@ const ItemDetail = () => {
 
     return (
         <div>
-            <h3>this is item detail: {bookId} </h3>
-            <div className="">
+            <h3>Product Details: {item.name} </h3>
+            <div className="text-center">
                 <Link to='/inventory'>
-                    <button className=''>Procced Inventory</button>
+                    <button className='text-center btn btn-info text-white'>Procced Inventory</button>
                 </Link>
             </div>
         </div>

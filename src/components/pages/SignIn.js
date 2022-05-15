@@ -61,8 +61,8 @@ const SignIn = () => {
     }
 
     return (
-        <div>
-            <h3>this is SignIn form </h3>
+        <div className='w-50 mx-auto '>
+            <h5 className='text-center text-info my-2'>The Book Spot Sign In</h5>
             <Form onSubmit={handleSignIn}>
                 <Form.Group className="mb-3" controlId="formBasicEmail">
                     <Form.Label>Email address</Form.Label>
@@ -74,17 +74,15 @@ const SignIn = () => {
                     <Form.Label>Password</Form.Label>
                     <Form.Control ref={passwordRef} type="password" placeholder="Password" />
                 </Form.Group>
-                <Form.Group className="mb-3" controlId="formBasicCheckbox">
-                    <Form.Check type="checkbox" label="Check me out" />
-                </Form.Group>
-                <Button variant="primary" type="submit">
-                    Submit
+
+                <Button className=' w-50' variant="primary" type="submit">
+                    Sign In
                 </Button>
             </Form>
 
-            <p className=''>New to The Book Spot?  <Link to='/signup' className='' onClick={navigateSignUp}>Please SignUp</Link> </p>
+            <p className=''>New User to The Book Spot?  <Link to='/signup' className='text-decoration-none text-danger mt-2' onClick={navigateSignUp}>Please Sign Up </Link> </p>
 
-            <p>Forget Password?  <button className='' onClick={resetPassword}>Reset Password</button> </p>
+            <p>Forget Your Password?<button className='btn btn-link b-none text-decoration-none text-primary p-1' onClick={resetPassword}>Reset Password</button></p>
 
             <SocialSignIn></SocialSignIn>
 

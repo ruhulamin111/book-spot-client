@@ -3,7 +3,7 @@ import React from 'react';
 const AddItem = () => {
     return (
         <div>
-            <h3>this is add item</h3>
+            <h5 className='text-center text-info my-3'>Product Add Section</h5>
         </div>
     );
 };

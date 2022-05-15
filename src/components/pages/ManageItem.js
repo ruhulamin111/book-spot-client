@@ -1,9 +1,12 @@
 import React from 'react';
 
+
 const ManageItem = () => {
+
+
     return (
         <div>
-            <h3>this is manage item </h3>
+            <h5 className='text-center text-info my-3'>Product Manage Section</h5>
         </div>
     );
 };
