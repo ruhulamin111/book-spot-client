@@ -2,55 +2,55 @@
     {
         "id": 1,
         "supplier": "Somokalin",
-        "quantity": "150",
-        "name": "Spine Surgery",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
-        "price": "500",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise."
+        "quantity": "1050",
+        "name": "Bela Furabar Age",
+        "img": "https://i.ibb.co/Y4CMrLP/aaron-burden-535-Npq1w-FG8-unsplash-1.jpg",
+        "price": "280",
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": 2,
         "supplier": "Ilmhouse",
-        "quantity": "150",
-        "name": "Neurosurgery",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
-        "price": "400",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise."
+        "quantity": "653",
+        "name": "Khushu Khujhu",
+        "img": "https://i.ibb.co/Y4CMrLP/aaron-burden-535-Npq1w-FG8-unsplash-1.jpg",
+        "price": "162",
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": 3,
-        "supplier": "Ilmhouse",
-        "quantity": "150",
-        "name": "Orthopedic Surgery",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
-        "price": "300",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise."
+        "supplier": "Tawhid",
+        "quantity": "1301",
+        "name": "Bibah Path",
+        "img": "https://i.ibb.co/Y4CMrLP/aaron-burden-535-Npq1w-FG8-unsplash-1.jpg",
+        "price": "326",
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": 4,
-        "supplier": "Ilmhouse",
-        "quantity": "150",
-        "name": "Therapist",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
-        "price": "200",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise."
+        "supplier": "Dorpon",
+        "quantity": "1132",
+        "name": "Purniboti",
+        "img": "https://i.ibb.co/Y4CMrLP/aaron-burden-535-Npq1w-FG8-unsplash-1.jpg",
+        "price": "236",
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": 5,
-        "supplier": "Ilmhouse",
-        "quantity": "150",
-        "name": "Transplant Surgery",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
-        "price": "100",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise."
+        "supplier": "Bookmark",
+        "quantity": "1789",
+        "name": "Tara Jholmol",
+        "img": "https://i.ibb.co/Y4CMrLP/aaron-burden-535-Npq1w-FG8-unsplash-1.jpg",
+        "price": "196",
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": 6,
-        "supplier": "Ilmhouse",
-        "quantity": "150",
-        "name": "Dentist",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
-        "price": "50",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise."
+        "supplier": "Wafilife",
+        "quantity": "981",
+        "name": "Chinta Oporadh",
+        "img": "https://i.ibb.co/Y4CMrLP/aaron-burden-535-Npq1w-FG8-unsplash-1.jpg",
+        "price": "264",
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     }
 ]

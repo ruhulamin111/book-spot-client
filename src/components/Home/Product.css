@@ -1,0 +1,9 @@
+.product-part {
+    padding: 20px;
+    border: 1px solid sandybrown;
+    border-radius: 20px;
+}
+
+.product-part img {
+    border-radius: 20px;
+}

@@ -13,7 +13,7 @@ const Book = () => {
 
     return (
         <div id='book' className='' >
-            <h3>this is book part</h3>
+            <h3 className='text-white bg-info py-5 my-2 fw-bold text-center ' >Collection of Books</h3>
             <div className='book-part'>
                 {
                     books.map(book => <Item

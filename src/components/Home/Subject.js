@@ -11,7 +11,7 @@ const Subject = () => {
     }, [])
     return (
         <div id='subject'>
-            <h3>this is subject part</h3>
+            <h3 className='text-white bg-info py-5 my-2 fw-bold text-center '>Subject Wise Product</h3>
             <div className='subject-part'>
                 {
                     subjects.map(subject => <Product

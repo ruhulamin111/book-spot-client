@@ -1,44 +1,44 @@
 [
     {
         "id": "1",
-        "name": "Orthopedic",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "name": "Family and Social",
+        "img": "https://i.ibb.co/Rgpjbjn/alfons-morales-YLSwj-Sy7stw-unsplash-1.jpg",
         "price": "2500",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": "2",
-        "name": "Neorology",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "name": "Self Statisfied",
+        "img": "https://i.ibb.co/Rgpjbjn/alfons-morales-YLSwj-Sy7stw-unsplash-1.jpg",
         "price": "5200",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": "3",
-        "name": "Apendix",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "name": "History of Islam ",
+        "img": "https://i.ibb.co/Rgpjbjn/alfons-morales-YLSwj-Sy7stw-unsplash-1.jpg",
         "price": "3230",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": "4",
-        "name": "Spine",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "name": "Marriage Life",
+        "img": "https://i.ibb.co/Rgpjbjn/alfons-morales-YLSwj-Sy7stw-unsplash-1.jpg",
         "price": "2890",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": "5",
-        "name": "Sergery",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "name": "Glorious History",
+        "img": "https://i.ibb.co/Rgpjbjn/alfons-morales-YLSwj-Sy7stw-unsplash-1.jpg",
         "price": "1500",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
         "id": "6",
-        "name": "Therapy",
-        "img": "https://i.ibb.co/mDt7NsJ/doctor1.jpg",
+        "name": "Happy Life",
+        "img": "https://i.ibb.co/Rgpjbjn/alfons-morales-YLSwj-Sy7stw-unsplash-1.jpg",
         "price": "500",
-        "description": "Instantly find Top-Rated Providers for Free. Verified Reviews. Search, Compare, Rate, and Schedule Care with Physicians, Dentists, Chiropractors, Acupuncturists, Nurse Practitioners, Counselors, and more on Advise"
+        "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     }
 ]

@@ -1,0 +1,15 @@
+.item-part {
+    padding: 20px;
+    border: 1px solid sandybrown;
+    border-radius: 20px;
+}
+
+.item-part button {
+    width: 100%;
+    border: none;
+    padding: 5px;
+}
+
+.item-part img {
+    border-radius: 20px;
+}

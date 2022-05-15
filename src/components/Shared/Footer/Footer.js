@@ -2,9 +2,9 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
-            <h3>This is footer</h3>
-        </div>
+        <footer className='bg-info text-white '>
+            <h5 className='text-center mt-3 py-5'>The Book Spot &copy; 2022</h5>
+        </footer>
     );
 };
 
