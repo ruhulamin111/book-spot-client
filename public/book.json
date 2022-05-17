@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "supplier": "Somokalin",
         "quantity": "1050",
         "name": "Bela Furabar Age",
@@ -9,7 +8,6 @@
         "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
-        "id": 2,
         "supplier": "Ilmhouse",
         "quantity": "653",
         "name": "Khushu Khujhu",
@@ -18,7 +16,6 @@
         "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
-        "id": 3,
         "supplier": "Tawhid",
         "quantity": "1301",
         "name": "Bibah Path",
@@ -27,7 +24,6 @@
         "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
-        "id": 4,
         "supplier": "Dorpon",
         "quantity": "1132",
         "name": "Purniboti",
@@ -36,7 +32,6 @@
         "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
-        "id": 5,
         "supplier": "Bookmark",
         "quantity": "1789",
         "name": "Tara Jholmol",
@@ -45,7 +40,6 @@
         "description": "Is this your first time here? As salaamu alaikum! In order to start your studies, you first need to complete the admission/enrollment process."
     },
     {
-        "id": 6,
         "supplier": "Wafilife",
         "quantity": "981",
         "name": "Chinta Oporadh",
