@@ -34,9 +34,9 @@ const Header = () => {
                             </>}
 
                             {user ?
-                                <Nav.Link onClick={handleSingOut} as={Link} to="signin">SignOut</Nav.Link>
+                                <Nav.Link onClick={handleSingOut} as={Link} to="signin">Sign Out</Nav.Link>
                                 :
-                                <Nav.Link as={Link} to="signin">SignIn</Nav.Link>
+                                <Nav.Link as={Link} to="signin">Sign In</Nav.Link>
                             }
                         </Nav>
                     </Container>

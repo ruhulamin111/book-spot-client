@@ -5,11 +5,10 @@ import './Book.css'
 const Book = () => {
     const [books, setBooks] = useState([])
     useEffect(() => {
-        fetch('book.json')
+        fetch('http://localhost:5000/item')
             .then(res => res.json())
             .then(data => setBooks(data))
     }, [])
-
 
     return (
         <div id='book' className='' >
@@ -17,7 +16,7 @@ const Book = () => {
             <div className='book-part'>
                 {
                     books.map(book => <Item
-                        key={book.id}
+                        key={book._id}
                         book={book}
                     ></Item>)
 
