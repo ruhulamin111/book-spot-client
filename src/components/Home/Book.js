@@ -5,7 +5,7 @@ import './Book.css'
 const Book = () => {
     const [books, setBooks] = useState([])
     useEffect(() => {
-        fetch('http://localhost:5000/item')
+        fetch('https://frozen-basin-58605.herokuapp.com/item')
             .then(res => res.json())
             .then(data => setBooks(data))
     }, [])
